@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "github-copilot-sdk>=0.2.0",
     "jupyter>=1.1.1",
     "langchain>=1.2.8",
     "langchain-chroma>=1.1.0",
